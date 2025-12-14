@@ -273,7 +273,3 @@ Response:
 ---
 
 **Happy Coding! 🚀**
-
-=======
-# technicalTest-backend-chatbot
->>>>>>> fccdedd0a45ed18208db3a1ac30994f6e20e3c5e
