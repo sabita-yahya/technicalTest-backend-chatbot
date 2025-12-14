@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Backend Chatbot API - Technical Test
 
 REST API sederhana untuk chatbot yang dibangun dengan AdonisJS v5 dan PostgreSQL.
@@ -34,7 +33,7 @@ Pastikan sistem Anda sudah terinstall:
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sabita-yahya/technicalTest-backend-chatbot.git
 cd backend-chatbot
 ```
 
