@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Chatbot API - Technical Test
 
 REST API sederhana untuk chatbot yang dibangun dengan AdonisJS v5 dan PostgreSQL.
@@ -274,3 +275,6 @@ Response:
 
 **Happy Coding! 🚀**
 
+=======
+# technicalTest-backend-chatbot
+>>>>>>> fccdedd0a45ed18208db3a1ac30994f6e20e3c5e
